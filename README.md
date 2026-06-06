@@ -30,20 +30,32 @@ Git          █████████████░░░
 - Authentication Systems
 - Django Applications
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity Status
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eldor2006&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldor2006&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eldor2006&show_icons=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldor2006&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eldor2006&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eldor2006&theme=tokyonight"/>
+</p>
+
+---
+
+### ⚡ Current Status
+
+<p align="center">
+  🚀 Developer in progress <br>
+  💻 Focus: Backend & Python <br>
+  📚 Learning: Django, APIs, GitHub workflow <br>
+  🎯 Goal: Professional Software Engineer
 </p>
 
 ### 🔥 Streak Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eldor2006"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eldor2006&theme=tokyonight&hide_border=true"/>
 </p>
-
 ### 📫 Contact
 
 - GitHub: github.com/eldor2006
